@@ -1,0 +1,17 @@
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\bin\Debug\net6.0-windows\14.hafta.exe
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\bin\Debug\net6.0-windows\14.hafta.deps.json
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\bin\Debug\net6.0-windows\14.hafta.runtimeconfig.json
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\bin\Debug\net6.0-windows\14.hafta.dll
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\bin\Debug\net6.0-windows\14.hafta.pdb
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\obj\Debug\net6.0-windows\14.hafta.csproj.AssemblyReference.cache
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\obj\Debug\net6.0-windows\_14.hafta.Form1.resources
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\obj\Debug\net6.0-windows\14.hafta.csproj.GenerateResource.cache
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\obj\Debug\net6.0-windows\14.hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\obj\Debug\net6.0-windows\14.hafta.AssemblyInfoInputs.cache
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\obj\Debug\net6.0-windows\14.hafta.AssemblyInfo.cs
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\obj\Debug\net6.0-windows\14.hafta.csproj.CoreCompileInputs.cache
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\obj\Debug\net6.0-windows\14.hafta.dll
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\obj\Debug\net6.0-windows\refint\14.hafta.dll
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\obj\Debug\net6.0-windows\14.hafta.pdb
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\obj\Debug\net6.0-windows\14.hafta.genruntimeconfig.cache
+C:\Users\cengiz\source\repos\14.hafta\14.hafta\obj\Debug\net6.0-windows\ref\14.hafta.dll
